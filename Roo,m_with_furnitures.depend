@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1491592107 source:c:\users\hp\desktop\roo,m_with_furnitures\room_with_furnituree.c
+	<GL/gl.h>
+	<GL/glut.h>
+
+1491592267 source:d:\11 semester\computer graphics lab\project\room_with_furnitures\room_with_furnituree.c
+	<GL/gl.h>
+	<GL/glut.h>
+
+1491592267 source:d:\11 semester\computer graphics lab\project\room_with_furnituresj\room_with_furnituree.c
+	<GL/gl.h>
+	<GL/glut.h>
+
+1502853896 source:c:\users\kamrul\downloads\compressed\project-room_with_furnoture\room_with_furnitures\room_with_furnituree.c
+	<windows.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
